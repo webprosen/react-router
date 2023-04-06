@@ -1,0 +1,10 @@
+.friends{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 10px;
+}
+.friend{
+    padding: 25px;
+    border-radius: 10px;
+    background-color: aquamarine;
+}
